@@ -6,4 +6,3 @@ cx_Freeze.setup(
                            "include_files": []}},
     executables=executables
 )
-#Build: python setup.py build
